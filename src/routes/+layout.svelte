@@ -10,5 +10,4 @@
 <Header></Header>
 <div style="display: contents">
 	{@render children()}
-	<h1>testttt</h1>
 </div>

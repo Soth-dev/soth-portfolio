@@ -26,13 +26,13 @@
 
 		<!-- Ground Fog -->
 		<div
-			class="absolute bottom-0 h-64 w-full bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent backdrop-blur-[1px]"
+			class="absolute bottom-0 h-64 w-full bg-linear-to-t from-slate-950 via-slate-950/40 to-transparent backdrop-blur-[1px]"
 		></div>
 	</div>
 
 	<!-- iOS-style Top Shadow/Gradient -->
 	<div
-		class="pointer-events-none fixed inset-x-0 top-0 z-40 h-32 bg-gradient-to-b from-black/40 to-transparent"
+		class="pointer-events-none fixed inset-x-0 top-0 z-40 h-32 bg-linear-to-b from-black/40 to-transparent"
 	></div>
 
 	<!-- Header at the top -->
